@@ -195,7 +195,7 @@ namespace Bingo
         /// <returns></returns>
         private int GetInputNum()
         {
-            Console.Write("입력해라 : ");
+            Console.Write("숫자 입력 : ");
             string inputNum = Console.ReadLine();
 
             int num = -1;
